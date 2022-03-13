@@ -57,11 +57,11 @@ class App extends Component {
         },
       ],
 	  //Continuar daqui!!!!
-      {
-        'white': true,
-        tabBarSelectedButtonColor: 'white',
-        tabBarBackgroundColor: 'black'
-      },
+        {
+          'white': true,
+          tabBarSelectedButtonColor: 'white',
+          tabBarBackgroundColor: 'black'
+        },
     });
   }
 
