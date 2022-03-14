@@ -1,4 +1,4 @@
-<h1>PLAY MOVIES</h1>
+<h1>PLAY MOVIES </h1>
 <h2>REACT-NATIVE</h2>
 Movies app based on React-Native with all systems complete and up to date
 <br></br>
