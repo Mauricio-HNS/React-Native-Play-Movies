@@ -11,5 +11,5 @@ Attention to dependencies and updates and versions of your React-Native.
 </div>
  <a href="default.asp">
 <img src="https://qgdocelular.com/wp-content/uploads/2021/06/5d13897f-20b4-4889-989e-943068bdfdbb_moca-assistindo-tv-no-celular.jpg" 
-     alt="Mauricio-HNS" style="width:1500px;height:1000px;">
+     alt="Mauricio-HNS" style="width:1000px;height:1000px;">
 </a> 
